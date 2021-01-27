@@ -5,7 +5,7 @@ I've been working as a front-end and back-end developer since 1999.
 Nowadays, I am working at SERPRO, a brazilian public company that is in charge of many governamental systems.
 
 - 🔭 I’m currently working at SERPRO with NodeJS, Angular and Java but I have a good background in Microsoft technologies just like .NET and Sql Server
-- 🌱 I’m currently learning about Blockchain and Natural (mainframe)
+- 🌱 I’m currently learning about React and Next.js
 
 - 📫 How to reach me: 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/windmateus)](https://twitter.com/windmateus)
