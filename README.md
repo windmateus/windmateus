@@ -1,5 +1,5 @@
 My name is Windson Mateus, from Brazil. I am a full stack developer since 1999.
-Nowadays, I am working at [SERPRO](https://serpro.gov.br), a brazilian public company that is in charge of many governamental systems.
+Nowadays, I am working at [SERPRO](https://serpro.gov.br), a brazilian public company that is in charge of hundreds of governamental systems.
 
 - 🔭 I’m currently working at SERPRO with NodeJS, Angular and Java but I have a very good background in Microsoft technologies just like .NET, SQL Server and ASP Classic
 - 🌱 I’m currently learning about Spring Boot, React and Next.js
