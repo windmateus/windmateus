@@ -16,6 +16,7 @@ Nowadays, I am working at [SERPRO](https://serpro.gov.br), a brazilian public co
 <a href = "mailto:windmateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/windson-mateus-b5429b232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://stackoverflow.com/users/9016083/windson-mateus" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-- 😄 What i do in my free time: I love to to play and watch soccer (⚽️), to watch movies (🎞️) and series (📺), to play videogames (🎮), to read books (📚), to listen to music (🎵) and sometimes I like to think about life with a beer (🍺).
+- 💬 I have a bachelor in Computer Science and I am in this business since 1998. All this time I've worked with these languages/frameworks: ASP Classic, Visual Basic, .NET (C# and VB), Java/J2EE, Javascript/Typescript, Angular; these databases: SQL Server, MySQL, PostegreSQL, Oracle; devops practices in Windows and Linux servers.
+- 😄 What i do in my free time: I love watching and playing football, preferably as a central midfielder (⚽️), watching movies (🎞️) and series (📺), playing videogames (🎮), reading books (📚), listening to music (🎵) and sometimes I like to think about life drinking a good beer (🍺) or wine (🍷).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windmateus&exclude_repo=github-readme-stats,pegadaspelomundo)](https://github.com/windmateus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windmateus&layout=compact&exclude_repo=pegadaspelomundo)](https://github.com/windmateus/github-readme-stats)
